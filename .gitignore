@@ -1,0 +1,15 @@
+/Lib
+/Packages
+crash_reporter.exe
+changelog.txt
+libcrypto-1_1-x64.dll
+libssl-1_1-x64.dll
+msvcr100.dll
+plugin_host-3.3.exe
+plugin_host-3.8.exe
+python33.dll
+python38.dll
+subl.exe
+sublime_text.exe
+update_installer.exe
+vcruntime140.dll

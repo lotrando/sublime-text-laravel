@@ -1,0 +1,25 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// Customize Material Theme - Sidebar - User
+// 
+{
+  "rules": [
+    {
+      "class": "sidebar_label",
+      "font.face": "jetBrains Mono Semibold",
+      "font.size": 12,
+    },
+    {
+      "font.face": "jetBrains Mono Semibold",
+      "class": "sidebar_heading",
+      "color": [
+        200,
+        200,
+        200,
+        0.5
+      ],
+      "font.bold": true,
+      "font.size": 12,
+    },
+  ],
+}

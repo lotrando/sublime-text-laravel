@@ -1,0 +1,44 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// Core Preferences – User
+{
+  "update_check": false,
+  "margin": 10,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "highlight_line": true,
+  "caret_extra_top": 2,
+  "caret_extra_bottom": 2,
+  "caret_extra_width": 2,
+  "line_padding_top": 2,
+  "line_padding_bottom": 1,
+  "auto_complete_delay": 10,
+  "hide_new_tab_button": true,
+  "show_sidebar_button": false,
+  "ui_scale": 1.0,
+  "hardware_acceleration": "opengl",
+  "remember_full_screen": true,
+  "remember_workspace": true,
+  "remember_layout": false,
+  "font_face": "jetBrains Mono Semibold",
+  "font_size": 12,
+  "font_options": [
+    "dlig",
+    "ss01"
+  ],
+  "theme": "Material-Theme.sublime-theme",
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+  "material_theme_accent_lime": true,
+  "material_theme_accent_scrollbars": true,
+  "material_theme_accent_titlebar": true,
+  "material_theme_compact_panel": true,
+  "material_theme_compact_sidebar": true,
+  "material_theme_small_statusbar": true,
+  "material_theme_small_tab": true,
+  "material_theme_tabs_autowidth": true,
+  "material_theme_titlebar": true,
+  "material_theme_tabs_separator": true,
+  "ignored_packages": [
+    "Vintage",
+  ],
+}

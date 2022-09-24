@@ -1,0 +1,9 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// Color Highlighter Preferences – User
+{
+  "user": {
+    "gutter_icon": "circle",
+    "highlight_values": false,
+  }
+}

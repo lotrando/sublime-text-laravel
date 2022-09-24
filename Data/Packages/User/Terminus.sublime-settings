@@ -1,0 +1,33 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// Terminus Preferences – User
+{
+    "default_config": {
+        "windows": "gitbash"
+    },
+    "shell_configs": [
+        {
+            "name": "gitbash",
+            "title": "Bash",
+            "cmd": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "env": {},
+            "enable": true,
+            "platforms": [
+                "windows"
+            ]
+        },
+    ],
+    "256color": true,
+    "brighten_bold_text": true,
+    "unix_term": "xterm-256color",
+    "unix_lang": "us.UTF-8",
+    "scrollback_history_size": 20000,
+    "min_columns": 20,
+    "max_columns": 420,
+    "natural_keyboard": true,
+    "theme": "adaptive",
+    "view_settings": {
+        "font_face": "JetBrains Mono Semibold",
+        "font_size": 10,
+    },
+}

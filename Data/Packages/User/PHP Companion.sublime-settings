@@ -1,0 +1,16 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// PHP Companion Preferences – User
+{
+    "exclude_dir": [
+        "vendor",
+        "node_modules"
+    ],
+    "allow_use_from_global_namespace": true,
+    "namespace_position": "newline",
+    "namespace_blank_lines": 2,
+    "use_sort_length": true,
+    "visibility": "private",
+    "docblock_inherit": true,
+    "use_todo_implement": false
+}
