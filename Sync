@@ -1,0 +1,12 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// Sync Preferences - User
+{
+    "access_token": "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",
+    "gist_id": "6a603b8d86c1498512378062c8114486",
+    "auto_upgrade": true,
+    "excluded_files": [
+        "*.png",
+        "*gitignore"
+    ],
+}
