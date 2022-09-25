@@ -1,0 +1,7 @@
+//Lotrando's Sublime Text settings for Larvel Developers
+// =====================================================
+// Bracket Higlighter Preferences – User
+{
+  "show_bracket_popup_always": true,
+  "popup_line_context": 10,
+}

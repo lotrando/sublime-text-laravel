@@ -3,12 +3,14 @@
 // Package control - User
 {
   "bootstrapped": true,
-  "in_process_packages": [],
+  "in_process_packages": [
+  ],
   "installed_packages": [
     "0x0",
     "A File Icon",
     "Blade Snippets",
     "Bootstrap 4x Autocomplete",
+    "BracketHighlighter",
     "Color Highlight",
     "DocBlockr",
     "DotENV",
